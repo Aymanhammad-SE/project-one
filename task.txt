@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-	
-=======
 ayman
 ayman
 ayman atef
->>>>>>> location1
+
