@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> location1
 *.exe
 !imp.exe
 node/
